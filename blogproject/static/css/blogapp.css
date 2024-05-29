@@ -1,0 +1,51 @@
+.content{
+    width:60%;
+    float:left;
+    padding:10px 0 0 30px;
+    background:rgb(19, 3, 15);
+    height:100%
+}
+
+.sidebar{
+    width:40%;
+    float:right;
+    padding:10px;
+    background:	rgb(192, 239, 255);
+    height:100%
+    text-align:center;
+    border:1px solid yellow;
+    padding-bottom:10px;
+}
+
+ h1{
+    text-align:center;
+    border:1px solid yellow;
+    padding-bottom:10px;
+ }
+ .back_button{
+    text-align:center;
+  }
+
+.first{
+    background:rgb(13, 3, 15);
+    color:white;
+
+}
+#date{
+    color:yellow;
+    font-size:15px;
+    font-style:italic;
+}
+#ch{
+    color:yellow;
+    font-size:30px;
+    font-style:italic;
+    border-bottom:2px solid yellow;
+}
+#pcount{
+    color:black;
+    font-size:40px;
+    font-weight:bold;
+
+}
+
